@@ -1,0 +1,112 @@
+Toxoplasma Gondii 
+
+= Protozoa
+i(unicellular eukaryotic organism).
+Coined in 1818 by Gorg August Goldfuss "primitive animals"
+Original idea was single cellular organizms with animal like behavior,
+like predation and motility.
+
+Plant vs animal division is messier than originally thought.
+
+Ingest food in vacuoles.
+
+= Lifecycle
+
+Alternate between proliferative stages (trophozoites) and dormant
+cycts. As cycst, can survive outside of host and don't need nutrients.
+As trophozoites, they actively feed.
+
+Asexual reproduction - binary fission or multiple fission. Can exchange
+genetic information sexuallly, e.g. through conjugation, but is decoupled
+from reproduction.
+
+Obligate intracellular - can't reproduce outside host cell
+
+1. Tachyzoites - motile, quickly multiplying. Convert from bradyzoites or
+sporozoites in intestinal ephithelium of host. Spread throughout the body
+via the blood stream, then convert to bradyzoites to form tissue cysts.
+Infect cell, form vacuoles, reproduce until host burts.
+
+2. Merozoites - in cat intestine, like Tahyzoites but for sexual reproduction.
+Comes from bradyzoites consumed by cat. After multiplying, transform
+into noninfectious sexual sage, eventually form zygote-containing oocysts.
+
+3. Bradyzoites - slowly dividing stage in tissue cysts. Can be anywhere, but
+primarily in brain, eyes and striated muscle (e.g. heart). Especially
+brain for mice. Caused by pressure from host immune system.
+
+4. Sporozoites - inside oocysts, convert to tachyzoites when consumed.
+
+Epithilium - one of four types, avascular, line cavaties and surfaces
+
+
+Can infect all warm-blooded animals, but can only sexually reproduce in
+felids (e.g. domestic cats).
+
+Latent infection up to half the world, 23% in US. Statistical correlation
+with other pathalogies, but no one has proved causation. Examples: OCD,
+Traffic Accidents, Schizophrenia.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3963851/
+Flegr J, Prandota J, Sovičková M, Israili ZH. Toxoplasmosis – A Global Threat. Correlation of Latent Toxoplasmosis with Specific Disease Burden in a Set of 88 Countries. Fernandez-Reyes D, ed. PLoS ONE. 2014;9(3):e90203. doi:10.1371/journal.pone.0090203.
+
+
+Alters rodent behavior to increase the chance they will be preyed upon by cats.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2526137/
+
+Webster JP. The Effect of Toxoplasma gondii on Animal Behavior: Playing Cat and Mouse. Schizophrenia Bulletin. 2007;33(3):752-756. doi:10.1093/schbul/sbl073.
+
+Lack of fear of cat odors (esp. cat pee). Actually showed preference for
+cat scented areas!!! Less neophobic, more active.
+
+Parasites as causative agents of human affective disorders? The impact of anti-psychotic, mood-stabilizer and anti-parasite medication on Toxoplasma gondii's ability to alter host behaviour
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1560245/
+Webster J., Lamberton PH., Donnelly C., Torrey E. Parasites as causative agents of human affective disorders? The impact of anti-psychotic, mood-stabilizer and anti-parasite medication on Toxoplasma gondii’s ability to alter host behaviour. Proceedings of the Royal Society B: Biological Sciences. 2006;273(1589):1023-1030. doi:10.1098/rspb.2005.3413.
+
+Used Haloperidol anti-psychotic on infected rats. In vitro tests show it
+inhibits T. gondii replication and invasion of brain cells.
+
+
+= Toxo1 locus of control
+
+http://www.ncbi.nlm.nih.gov/pubmed/16407112/
+Cavaillès P, Sergent V, Bisanz C, et al. The rat Toxo1 locus directs toxoplasmosis outcome and controls parasite proliferation and spreading by macrophage-dependent mechanisms. Proceedings of the National Academy of Sciences of the United States of America. 2006;103(3):744-749. doi:10.1073/pnas.0506643103.
+
+LEW rats - particular breed of lab rat, albino, inbred
+Rats typically have sub-clinical like humans, but is severe in mice
+
+Based on in vitro studies, macrophage can impede proliferation within vacuole
+Bascially they infected macrophages from restistand and non-resistant
+strains, and in reistant macrophages, most contained only one (after 20 hours
+of incubation and the free prasites being washed). 90% inhibition compared with
+BN. Same test using fibroblasts found no inhibition in LEW samples.
+
+This doesn't explain total inhibition of spreading in LEW rats in vivo.
+Started with inoculating tachyzoites, checking peritoneal fluid, most still
+found in extracellular position, no difference in viability. Then taken out
+of rats, in vitro invastion assay onto fibroblasts
+(HFF - human foreskin fibroblasts). 98% inhbition of invasion rate
+in LEW samples!!!
+
+From day 2 to 5, no parasites detected.
+
+Q: what about dendritic cells?
+
+Usually resistance involves several polymorphic genes.
+http://www.ncbi.nlm.nih.gov/pubmed/9597143
+
+Resistance from single gene sometimes happens, e.g. CCR5 for HIV in humans.
+
+7.6 megabase region, 86 identified putative rat genes. Several are likely
+to be expressed in hematopoietic cells. No obvious candidate.
+
+Other immunological related genes, Alox15 coding for lipoxygenases, in Toxo1,
+is one candidate.
+
+Forward genetics approach.
+
+
+Rat picture: http://hilltoplabs.com/public/lewis.html
+
+T. gondii: http://www.cdc.gov/dpdx/toxoplasmosis/gallery.html#cyst
+lifecycle: http://www.cdc.gov/parasites/toxoplasmosis/biology.html
